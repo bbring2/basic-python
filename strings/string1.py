@@ -28,3 +28,17 @@ i dont understand
 because i am java developer
 """
 print(multiline)
+
+# 문자열 곱하기
+head = "Python"
+tail = 'fun'
+print(head*3 + ' ' + tail*2)
+
+# multiString
+print("=" * 50)
+print("HELLO, I AM PYCHARM FOR PYTHON")
+print("=" * 50)
+
+# 문자열 길이 구하기 -> length함수를 나타내는 줄임말의 len
+nice = "Life is too short"
+print(len(nice))
